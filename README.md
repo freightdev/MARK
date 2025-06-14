@@ -20,31 +20,25 @@
 ## 🤪 Example Usage
 
 ```bash
-mark init
-mark book covers
-mark book marks
-mark route
+mark init  # `mark.mstp` --setup
+mark book  # `book.mark` --setup
+mark cover  # `cover.mark` --setup
+mark mark  # 'mark.mark' --setup
 ```
-
-Creates:
-
-* `.mark/cover.mark`
-* `.mark/mark.mark`
-* `mark.mstp`
-* `book.mark`
 
 ---
 
 ## 📁 Folder Layout
 
 ```
-project/
+markcli/
 ├── README.md
 ├── GMPL-v1.md
 ├── .mark/
+│   ├── book.mark
 │   ├── cover.mark
 │   ├── mark.mark
-│   └── book.mark
+│   └── mark.mstp
 └── src/
     └── ...
 ```
@@ -70,15 +64,14 @@ MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory 
 
 ## ⚖️ Related Licenses
 
-* BookOS: [MIT License](https://opensource.org/licenses/MIT)
-* Bookmark Studio: [MIT License](https://opensource.org/licenses/MIT)
+* Bookmark: [MIT License](https://opensource.org/licenses/MIT)
 
 ---
 
 ## ✅ What You Can Do
 
 * ✔️ Use MARK CLI in personal, commercial, or open-source projects
-* ✔️ Embed `.mark`, `.marker`, or `.mstp` logic into any platform
+* ✔️ Embed `.mark` and `.mstp` logic into any platform
 * ✔️ Build agents, tools, UIs, APIs, and full memory kernels using MARK's structure
 * ✔️ Create commercial systems powered by MARK as long as attribution is preserved
 
