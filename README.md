@@ -3,7 +3,7 @@
 ![License: GMPL-v1](https://img.shields.io/badge/license-GMPL--v1-brightgreen?style=flat-square)
 
 > MARK is a markdown-native memory routing system for humans, agents, and hybrid tools.
-> It reads `.md`, `.mark`, `.marker`, `.bookmark`, and `.mstp` files and turns them into structured, usable memory flows.
+> It reads `.md`, `.mark`, `.marker`, and `.mstp` files and turns them into structured, usable memory flows.
 > This protects the structure — not the product. MARK is memory-first.
 
 ---
@@ -88,7 +88,7 @@ MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory 
 
 * ❌ Rename `MARK` and claim originality
 * ❌ Close-source improvements to `.mstp` or memory routing based on MARK
-* ❌ Claim unmodified parts of BookOS, Bookmark Studio, or MARK CLI as your own
+* ❌ Claim unmodified parts of BookOS, Bookshelf, or MARK CLI as your own
 * ❌ Obscure what version of MARK you're using
 
 ---
