@@ -1,4 +1,4 @@
-# 🧠 MARK CLI — Memory Assisted Routing Kernel
+# 🧠 MARK CLI — Memory Aware Routing Kernel
 
 ![License: GMPL-v1](https://img.shields.io/badge/license-GMPL--v1-brightgreen?style=flat-square)
 
@@ -13,8 +13,7 @@
 * Parses any markdown-based memory
 * Detects and indexes marks and bookmarks
 * Structures `.mstp` (Markdown Storytelling Protocol) files
-* Creates runnable `book.mark` files for agent execution
-* Powers agents like PacketPilot, WhisperWitness, and CargoConnect
+* Creates runnable `book.mark` files for execution
 
 ---
 
@@ -79,7 +78,7 @@ MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory 
 ## ✅ What You Can Do
 
 * ✔️ Use MARK CLI in personal, commercial, or open-source projects
-* ✔️ Embed `.mark`, `.marker`, `.bookmark`, `.page`, `.book`, or `.mstp` logic into any platform
+* ✔️ Embed `.mark`, `.marker`, or `.mstp` logic into any platform
 * ✔️ Build agents, tools, UIs, APIs, and full memory kernels using MARK's structure
 * ✔️ Create commercial systems powered by MARK as long as attribution is preserved
 
