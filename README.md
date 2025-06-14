@@ -4,6 +4,7 @@
 
 > MARK is a markdown-native memory routing system for humans, agents, and hybrid tools.
 > It reads `.md`, `.mark`, `.marker`, `.bookmark`, and `.mstp` files and turns them into structured, usable memory flows.
+> This protects the structure — not the product. MARK is memory-first.
 
 ---
 
@@ -59,15 +60,37 @@ Rust • Markdown • CLI-first • Memory Routing • Zero External APIs
 
 ---
 
-## 📄 License
+## 📟 License
 
-MARK CLI is licensed under the **[GMPL-v1](./GMPL-v1.md)** — General Memory Public License:
+MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory Public License**:
 
-> You can use, modify, and build with this.
-> But if you improve how memory is structured, you must share it.
+> You can use it. You can modify it. You can build with it.
+> But if you improve how memory is structured — you must share it.
 
-> BookOS and Bookmark Studio are MIT.
-> MARK is GMPL.
+---
+
+## ⚖️ Related Licenses
+
+* BookOS: [MIT License](https://opensource.org/licenses/MIT)
+* Bookmark Studio: [MIT License](https://opensource.org/licenses/MIT)
+
+---
+
+## ✅ What You Can Do
+
+* ✔️ Use MARK CLI in personal, commercial, or open-source projects
+* ✔️ Embed `.mark`, `.marker`, `.bookmark`, `.page`, `.book`, or `.mstp` logic into any platform
+* ✔️ Build agents, tools, UIs, APIs, and full memory kernels using MARK's structure
+* ✔️ Create commercial systems powered by MARK as long as attribution is preserved
+
+---
+
+## ❌ What You Can’t Do
+
+* ❌ Rename `MARK` and claim originality
+* ❌ Close-source improvements to `.mstp` or memory routing based on MARK
+* ❌ Claim unmodified parts of BookOS, Bookmark Studio, or MARK CLI as your own
+* ❌ Obscure what version of MARK you're using
 
 ---
 
@@ -88,4 +111,4 @@ If this project helps you or inspires your agent builds:
 
 Every dollar goes toward tools for the ones still behind the wheel.
 
-☕️ Jesse — [freightdev](https://github.com/freightdev)
+️ Jesse — [freightdev](https://github.com/freightdev)
