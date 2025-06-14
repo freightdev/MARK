@@ -97,8 +97,8 @@ MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory 
 ## ✍️ Author
 
 **Jesse Edward Eugene Wayne Conley**
-📬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
-🔗 [github.com/freightdev](https://github.com/freightdev)
+  - 📬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
+  - 🔗 [github.com/freightdev](https://github.com/freightdev)
 
 > "I didn’t build this to automate the road. I built it so no one gets left behind."
 
