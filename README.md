@@ -80,7 +80,7 @@ MARK is licensed under the [**PMSL-v1**](./PMSL-v1.md) — **Public Memory Struc
 
 ## ⚖️ Related Licenses
 
-* Bookmark: [MIT License](https://opensource.org/licenses/MIT)
+* Bookmark Studio: [MIT License](https://opensource.org/licenses/MIT)
 
 ---
 
