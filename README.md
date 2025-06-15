@@ -1,4 +1,4 @@
-# 🧠 MARK CLI — Memory Aware Routing Kernel
+# 🧠 MARK — Memory Aware Routing Kernel
 
 ![License: PMSL-v1](https://img.shields.io/badge/license-PMSL--v1-brightgreen?style=flat-square)
 
