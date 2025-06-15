@@ -38,7 +38,7 @@ If you’re using this, you’re part of the build.
 mark init  # `mark.mstp` --setup
 mark index  # `index.mark` --setup
 mark law  # `law.mark`
-mark store  # `store.mark'
+mark store  # `store.mark`
 mark shelf  # `shelf.mark`
 mark case  # `case.mark`
 mark stem  # `stem.mark`
