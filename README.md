@@ -134,6 +134,8 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 🧠 [github.com/freightdev](https://github.com/freightdev)
 💬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
 
+---
+
 > "If the memory is worth keeping, the mark should hold weight."
 
 ---
