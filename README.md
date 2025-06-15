@@ -96,10 +96,10 @@ Rust • Markdown • CLI-first • Memory Routing • Zero External APIs
 ## 📜 License
 
 MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) — **Public Memory Structure License**:
+* PMSL — [View License](https://github.com/freightdev/PMSL)
 
 > You can use it. You can modify it. You can build with it.
 > But if you improve how memory is structured — you must share it.
-* PMSL — [View License](https://github.com/freightdev/PMSL)
 
 ---
 
