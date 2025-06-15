@@ -104,9 +104,11 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 ## ⚖️ Related Licenses
 
-* Bookmark Studio — [MIT License](https://opensource.org/licenses/MIT)
-* Marker Ink — Proprietary (royalty-based)
 * PMSL — [View License](https://github.com/freightdev/PMSL)
+* Bookmark Studio — [MIT License](https://opensource.org/licenses/MIT)
+
+* Bookstore - Proprietary (royalty-based)
+* Marker Ink — Proprietary (royalty-based)
 
 ---
 
