@@ -123,7 +123,7 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 * ❌ Rename MARK and claim originality
 * ❌ Lock `.mstp` or routing logic behind closed license without contribution
-* ❌ Claim BookOS, MARK CLI, or Bookmark Studio unmodified as your own
+* ❌ Claim MARK, Bookmark Studio, or Bookstore unmodified as your own
 * ❌ Obfuscate or hide the origin of routing logic derived from MARK
 
 ---
