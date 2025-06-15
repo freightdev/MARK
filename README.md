@@ -128,7 +128,7 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 ---
 
-## ✍️ Author
+## ✍️ Author & Developer
 
 **Jesse Edward Eugene Wayne Conley**
 * 🧠 [github.com/freightdev](https://github.com/freightdev)
