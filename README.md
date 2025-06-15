@@ -3,7 +3,7 @@
 ![License: PMSL-v1](https://img.shields.io/badge/license-PMSL--v1-brightgreen?style=flat-square)
 
 > MARK is a markdown-native memory routing system for humans, agents, and hybrid tools.
-> It reads `.md(x)`, `.mark`, `.marker`, `.book`, `.page`, `.ribbon`, `.trail`, and `.mstp` files and turns them into structured, usable memory flows.
+> It reads `.md(x)`, `.mark`, and `.mstp` files and turns them into structured, usable memory flows.
 
 ---
 
@@ -71,7 +71,7 @@ Rust • Markdown • CLI-first • Memory Routing • Zero External APIs
 
 ## 📿 License
 
-MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory Public License**:
+MARK is licensed under the [**PMSL-v1**](./PMSL-v1.md) — **Public Memory Structure License**:
 
 > You can use it. You can modify it. You can build with it.
 > But if you improve how memory is structured — you must share it.
@@ -86,7 +86,7 @@ MARK CLI is licensed under the [**GMPL-v1**](./GMPL-v1.md) — **General Memory 
 
 ## ✅ What You Can Do
 
-* ✔️ Use MARK CLI in personal, commercial, or open-source projects
+* ✔️ Use MARK in personal, commercial, or open-source projects
 * ✔️ Embed `.mark` and `.mstp` logic into any platform
 * ✔️ Build agents, tools, UIs, APIs, and full memory kernels using MARK's structure
 * ✔️ Create commercial systems powered by MARK as long as attribution is preserved
