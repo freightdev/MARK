@@ -57,8 +57,20 @@ mark marker  # `marker.mark`
 mark dust # `dust.mark`
 mark ribbon  # `ribbon.mark`
 mark trail  # `trail.mark`
+mark ink  # `ink.mark`
 ```
 
+book.mark ─▶ page.mark ─▶ marker.mark ─▶ store.mark 
+    ▲            ▲             ▲              ▲
+    │            |             |              |
+ law.mark    stem.mark      ink.mark    {shelf,case}.mark
+    ▲            ▲             ▲
+    │            |             |
+dust.mark    mark.mark     trail.mark
+    ▲            ▲
+    |            |
+cover.mark  ribbon.mark
+                             
 ---
 
 ## 🛠️ Tech Stack
