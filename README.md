@@ -1,10 +1,9 @@
 # 🧠 MARK CLI — Memory Aware Routing Kernel
 
-![License: GMPL-v1](https://img.shields.io/badge/license-GMPL--v1-brightgreen?style=flat-square)
+![License: PMSL-v1](https://img.shields.io/badge/license-PMSL--v1-brightgreen?style=flat-square)
 
 > MARK is a markdown-native memory routing system for humans, agents, and hybrid tools.
-> It reads `.md`, `.mark`, `.marker`, and `.mstp` files and turns them into structured, usable memory flows.
-> This protects the structure — not the product. MARK is memory-first.
+> It reads `.md(x)`, `.mark`, `.marker`, `.book`, `.page`, `.ribbon`, `.trail`, and `.mstp` files and turns them into structured, usable memory flows.
 
 ---
 
