@@ -131,11 +131,10 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 ## ✍️ Author
 
 **Jesse Edward Eugene Wayne Conley**
+🧠 [github.com/freightdev](https://github.com/freightdev)
+💬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
 
-* 📬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
-* 🔗 [github.com/freightdev](https://github.com/freightdev)
-
-> *"I didn’t build this to automate the road. I built it so no one gets left behind."*
+> "If the memory is worth keeping, the mark should hold weight."
 
 ---
 
