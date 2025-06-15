@@ -27,9 +27,8 @@ If you’re using this, you’re part of the build.
 ## 📦 What It Does
 
 * Parses any markdown-based memory
-* Detects and indexes marks and bookmarks
+* Detects and indexes **pages**, and **marks**
 * Structures `.mstp` (Markdown Storytelling Protocol) files
-* Creates runnable `book.mark` files for execution
 
 ---
 
@@ -37,26 +36,27 @@ If you’re using this, you’re part of the build.
 
 ```bash
 mark init  # `mark.mstp` --setup
-mark book  # `book.mark` --setup
-mark cover  # `cover.mark` --setup
-mark mark  # 'mark.mark' --setup
-```
-
----
-
-## 📁 Folder Layout
-
-```
-markcli/
-├── README.md
-├── GMPL-v1.md
-├── .mark/
-│   ├── book.mark
-│   ├── cover.mark
-│   ├── mark.mark
-│   └── mark.mstp
-└── src/
-    └── ...
+mark index  # `index.mark` --setup
+mark law  # `law.mark`
+mark store  # `store.mark'
+mark shelf  # `shelf.mark`
+mark case  # `case.mark`
+mark stem  # `stem.mark`
+mark book  # `book.mark`
+mark cover  # `cover.mark`
+mark cover front  # `front_cover.mark`
+mark cover back  # `back_cover.mark`
+mark cover side  # `side_cover.mark`
+mark page  # `page.mark`
+mark page front # `front_page.mark`
+mark page back  # `back_page.mark`
+mark page fold  # `fold_page.mark`
+mark page tare  # `tare_page.mark`
+mark mark  # `mark.mark` 
+mark marker  # `marker.mark` 
+mark dust # `dust.mark`
+mark ribbon  # `ribbon.mark`
+mark trail  # `trail.mark`
 ```
 
 ---
