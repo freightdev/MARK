@@ -99,12 +99,12 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 > You can use it. You can modify it. You can build with it.
 > But if you improve how memory is structured — you must share it.
+* PMSL — [View License](https://github.com/freightdev/PMSL)
 
 ---
 
 ## ⚖️ Related Licenses
 
-* PMSL — [View License](https://github.com/freightdev/PMSL)
 * Bookmark Studio — [MIT License](https://opensource.org/licenses/MIT)
 * Bookstore - Proprietary (royalty-based)
 * Marker Ink — Proprietary (royalty-based)
