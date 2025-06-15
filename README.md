@@ -143,6 +143,4 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 If this project helps you or inspires your agent builds:
 👉 [Buy Me a Coffee](https://coff.ee/freightdev)
 
-Every dollar supports building tools for the ones still behind the wheel.
-
-—
+> Every dollar supports building tools for the ones still behind the wheel.
