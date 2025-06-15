@@ -128,18 +128,6 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 ---
 
-> "If the memory is worth keeping, the mark should hold weight."
-
----
-
-## ✍️ Author
-
-**Jesse Edward Eugene Wayne Conley**
-🧠 [github.com/freightdev](https://github.com/freightdev)
-💬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
-
----
-
 ## 💛 Support
 
 If this project helps you or inspires your agent builds:
@@ -149,4 +137,14 @@ Every dollar supports building tools for the ones still behind the wheel.
 
 —
 
-🧠 Jesse — [freightdev](https://github.com/freightdev)
+## ✍️ Author
+
+**Jesse Edward Eugene Wayne Conley**
+🧠 [github.com/freightdev](https://github.com/freightdev)
+💬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
+
+---
+
+> "If the memory is worth keeping, the mark should hold weight."
+
+---
