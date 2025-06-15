@@ -9,7 +9,7 @@
 
 ## ⚠️ Still in Development
 
-These projects are **actively being built**, refined, and soon to be stress-tested in the real world.
+These project is **actively being built**, refined, and soon to be stress-tested in the real world.
 
 * Features may change as I break, test, and rebuild from the ground up
 * Some logic is experimental or placeholder until deployment-ready
