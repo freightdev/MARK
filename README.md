@@ -128,15 +128,6 @@ MARK is licensed under the [**PMSL-v1**](https://github.com/freightdev/PMSL) —
 
 ---
 
-## 💛 Support
-
-If this project helps you or inspires your agent builds:
-👉 [Buy Me a Coffee](https://coff.ee/freightdev)
-
-Every dollar supports building tools for the ones still behind the wheel.
-
-—
-
 ## ✍️ Author
 
 **Jesse Edward Eugene Wayne Conley**
@@ -148,3 +139,12 @@ Every dollar supports building tools for the ones still behind the wheel.
 > "If the memory is worth keeping, the mark should hold weight."
 
 ---
+
+## 💛 Support
+
+If this project helps you or inspires your agent builds:
+👉 [Buy Me a Coffee](https://coff.ee/freightdev)
+
+Every dollar supports building tools for the ones still behind the wheel.
+
+—
